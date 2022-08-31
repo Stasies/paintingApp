@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/paintingApp/static/js/main.89ecbc7a.js",
+    "static/js/787.6e64f9d5.chunk.js": "/paintingApp/static/js/787.6e64f9d5.chunk.js",
+    "index.html": "/paintingApp/index.html",
+    "main.89ecbc7a.js.map": "/paintingApp/static/js/main.89ecbc7a.js.map",
+    "787.6e64f9d5.chunk.js.map": "/paintingApp/static/js/787.6e64f9d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.89ecbc7a.js"
+  ]
+}
